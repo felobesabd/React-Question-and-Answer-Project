@@ -1,0 +1,48 @@
+body {
+    margin: 0;
+}
+.color-body {
+    height: 100vh;
+    background-color: #f8f8f8;
+}
+.font {
+    font-family: 'Cairo', sans-serif;
+    font-family: 'Roboto', sans-serif;
+    font-family: 'Roboto Condensed', sans-serif;
+    font-family: 'Almarai', sans-serif;
+    font-size: 20px;
+}
+.scenod-div {
+    min-height: 600px;
+    border-radius: 15px;
+    box-shadow: 1px 4px 4px 1px rgba(58, 58, 58, 0.25);
+}
+.line {
+    font-size: 24px;
+    font-weight: bold;
+    margin: 5px;
+}
+.button-style {
+    /* padding: 12px 25px !important;
+    margin-top: 15px !important;
+    font-size: 20px !important;
+    font-weight: bold !important; */
+    width: 200px;
+    border-radius: 10px;
+    color: white;
+    background-color: #224f61;
+    margin-top: 12px;
+    padding: 8px;
+    border: none;
+}
+.image-style {
+    width: 80px;
+    height: 80px;
+    border-radius: 50%;
+}
+/* .button-style-1 {
+    margin-right: -100px;
+}
+.button-style-2 {
+    margin-left: -100px;
+} */
